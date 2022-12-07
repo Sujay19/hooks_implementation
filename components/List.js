@@ -36,7 +36,7 @@ const List = () => {
       namelist
      }
      <div>
-      <Image src={image} objectFit='contain'/>
+      <Image src={image} objectFit='contain' alt='image'/>
      </div>
     </div>
   )
